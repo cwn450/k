@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Caveat+Brush&family=League+Spartan&display=swap');
+
+body
+{
+  color: white;
+  background: url("https://static.vecteezy.com/system/resources/previews/004/968/002/original/cute-abstract-modern-background-free-vector.jpg");
+  background-size:100%;
+  color: black;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading {
+  font-size: 20px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+#p1 {
+  font-family: initial;
+  font-size: 25px;
+}
+
+#p2 {
+  font-family: initial;
+  font-size: 24px;
+}
+
+label {
+  font-family: league spartan;
+  font-size: 20px;
+}
+
+#CaptureImg {
+  font-family: league spartan;
+  font-size: 16px;
+  background-color: rgb(219, 153, 186);
+  border-color:rgb(219, 153, 186);
+}
+
+#Predict {
+  font-family: league spartan;
+  font-size: 16px;
+  background-color: rgb(167, 168, 233);
+  border-color: rgb(167, 168, 233);
+}
